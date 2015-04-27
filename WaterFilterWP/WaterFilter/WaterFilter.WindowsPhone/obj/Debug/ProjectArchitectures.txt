@@ -1,1 +1,1 @@
-C:\Users\sruja\Documents\Visual Studio 2015\Projects\WaterFilter\WaterFilter\WaterFilter.WindowsPhone\WaterFilter.WindowsPhone.csproj;neutral
+C:\Users\sruja\documents\visual studio 2015\Projects\WaterFilter\WaterFilter\WaterFilter.WindowsPhone\WaterFilter.WindowsPhone.csproj;neutral

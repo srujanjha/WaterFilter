@@ -45,11 +45,3 @@ c:\users\sruja\documents\visual studio 2015\Projects\WaterFilter\WaterFilter\Wat
 c:\users\sruja\documents\visual studio 2015\Projects\WaterFilter\WaterFilter\WaterFilter.WindowsPhone\obj\Debug\qualifiers.txt.intermediate
 c:\users\sruja\documents\visual studio 2015\Projects\WaterFilter\WaterFilter\WaterFilter.WindowsPhone\obj\Debug\MultipleQualifiersPerDimensionFound.txt
 c:\users\sruja\documents\visual studio 2015\Projects\WaterFilter\WaterFilter\WaterFilter.WindowsPhone\obj\Debug\ProjectArchitectures.txt
-C:\Users\sruja\Documents\Visual Studio 2015\Projects\WaterFilter\WaterFilter\WaterFilter.WindowsPhone\obj\Debug\Microsoft.WindowsAzure.Mobile\layout.resfiles
-C:\Users\sruja\Documents\Visual Studio 2015\Projects\WaterFilter\WaterFilter\WaterFilter.WindowsPhone\obj\Debug\Microsoft.WindowsAzure.Mobile\layout.resfiles.intermediate
-C:\Users\sruja\Documents\Visual Studio 2015\Projects\WaterFilter\WaterFilter\WaterFilter.WindowsPhone\obj\Debug\Microsoft.WindowsAzure.Mobile\Resources.resfiles
-C:\Users\sruja\Documents\Visual Studio 2015\Projects\WaterFilter\WaterFilter\WaterFilter.WindowsPhone\obj\Debug\Microsoft.WindowsAzure.Mobile\Resources.resfiles.intermediate
-C:\Users\sruja\Documents\Visual Studio 2015\Projects\WaterFilter\WaterFilter\WaterFilter.WindowsPhone\obj\Debug\Microsoft.WindowsAzure.Mobile\pri.resfiles
-C:\Users\sruja\Documents\Visual Studio 2015\Projects\WaterFilter\WaterFilter\WaterFilter.WindowsPhone\obj\Debug\Microsoft.WindowsAzure.Mobile\pri.resfiles.intermediate
-C:\Users\sruja\Documents\Visual Studio 2015\Projects\WaterFilter\WaterFilter\WaterFilter.WindowsPhone\obj\Debug\Microsoft.WindowsAzure.Mobile\priconfig.xml
-C:\Users\sruja\Documents\Visual Studio 2015\Projects\WaterFilter\WaterFilter\WaterFilter.WindowsPhone\obj\Debug\Microsoft.WindowsAzure.Mobile\priconfig.xml.intermediate

@@ -41,8 +41,8 @@ namespace WaterFilterWPF
             rd[4] = r5;
             rd[5] = r6;
             refresh();
-            var dueTime = TimeSpan.FromSeconds(5);
-            var interval = TimeSpan.FromSeconds(5);
+            var dueTime = TimeSpan.FromSeconds(2);
+            var interval = TimeSpan.FromSeconds(2);
 
             // TODO: Add a CancellationTokenSource and supply the token here instead of None.
             DoPeriodicWorkAsync(dueTime, interval, CancellationToken.None);
@@ -50,21 +50,25 @@ namespace WaterFilterWPF
         Boolean Refresh = false;
         public async void refresh()
         {
-            string url = "https://srujan.azure-mobile.net/tables/telemetry?$top=1&$orderby=__createdAt%20desc";
-            HttpWebRequest request = (HttpWebRequest)WebRequest.Create(url);
-            HttpWebResponse response = (HttpWebResponse)request.GetResponse();
-            Stream receiveStream = response.GetResponseStream();
-            StreamReader readStream = new StreamReader(receiveStream, Encoding.UTF8);
-            string str = readStream.ReadLine();
-            str = str.Substring(str.IndexOf("title") + 8, 6);
-            for (int i = 0; i < 6; i++)
+            try
             {
-                char c = str.ElementAt(i);
-                if (c == '0') { txt[i].Text = "OFF"; rd[i].Fill = new SolidColorBrush(Color.FromRgb(255,0,0)); }
-                else { txt[i].Text = "ON"; rd[i].Fill= new SolidColorBrush(Color.FromRgb(0,255, 0)); }
+                string url = "https://srujan.azure-mobile.net/tables/telemetry?$top=1&$orderby=__createdAt%20desc";
+                HttpWebRequest request = (HttpWebRequest)WebRequest.Create(url);
+                HttpWebResponse response = (HttpWebResponse)request.GetResponse();
+                Stream receiveStream = response.GetResponseStream();
+                StreamReader readStream = new StreamReader(receiveStream, Encoding.UTF8);
+                string str = readStream.ReadLine();
+                str = str.Substring(str.IndexOf("title") + 8, 6);
+                for (int i = 0; i < 6; i++)
+                {
+                    char c = str.ElementAt(i);
+                    if (c == '0') { txt[i].Text = "OFF"; rd[i].Fill = new SolidColorBrush(Color.FromRgb(255, 0, 0)); }
+                    else { txt[i].Text = "ON"; rd[i].Fill = new SolidColorBrush(Color.FromRgb(0, 255, 0)); }
+                }
+                Refresh = true;
+                btnRefresh.IsEnabled = true;
             }
-            Refresh = true;
-            btnRefresh.IsEnabled = true;
+            catch (Exception) { }
         }
 
         private void Refresh_Click(object sender, RoutedEventArgs e)
@@ -79,7 +83,7 @@ namespace WaterFilterWPF
                                        CancellationToken token)
         {
             // Initial wait time before we begin the periodic loop.
-            if (dueTime > TimeSpan.Zero)
+           try { if (dueTime > TimeSpan.Zero)
                 await Task.Delay(dueTime, token);
 
             // Repeat this loop until cancelled.
@@ -91,6 +95,8 @@ namespace WaterFilterWPF
                 if (interval > TimeSpan.Zero)
                     await Task.Delay(interval, token);
             }
+        }
+            catch (Exception) { }
         }
     }
 }
