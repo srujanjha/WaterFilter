@@ -1,0 +1,6 @@
+﻿[ResourceMetadata]
+"ResourceId"			"split.language-zh-hans"
+"ResourceDimensions"		"language-zh-cn"
+
+[Files]
+"D:\WaterFilter\WaterFilter\WaterFilterApps\obj\x64\Debug\split.language-zh-hans.pri"			"resources.pri"

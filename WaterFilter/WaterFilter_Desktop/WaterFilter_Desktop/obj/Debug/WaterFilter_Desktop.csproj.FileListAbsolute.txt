@@ -1,0 +1,150 @@
+c:\users\animesh\documents\visual studio 2015\Projects\WaterFilter_Desktop\WaterFilter_Desktop\bin\Debug\WaterFilter_Desktop.exe.config
+c:\Users\Animesh\Documents\Visual Studio 2015\Projects\WaterFilter_Desktop\WaterFilter_Desktop\bin\Debug\WaterFilter_Desktop.exe
+c:\Users\Animesh\Documents\Visual Studio 2015\Projects\WaterFilter_Desktop\WaterFilter_Desktop\bin\Debug\WaterFilter_Desktop.pdb
+c:\Users\Animesh\Documents\Visual Studio 2015\Projects\WaterFilter_Desktop\WaterFilter_Desktop\obj\Debug\WaterFilter_Desktop.csprojResolveAssemblyReference.cache
+c:\Users\Animesh\Documents\Visual Studio 2015\Projects\WaterFilter_Desktop\WaterFilter_Desktop\obj\Debug\MainWindow.g.cs
+c:\Users\Animesh\Documents\Visual Studio 2015\Projects\WaterFilter_Desktop\WaterFilter_Desktop\obj\Debug\Window1.g.cs
+c:\Users\Animesh\Documents\Visual Studio 2015\Projects\WaterFilter_Desktop\WaterFilter_Desktop\obj\Debug\App.g.cs
+c:\Users\Animesh\Documents\Visual Studio 2015\Projects\WaterFilter_Desktop\WaterFilter_Desktop\obj\Debug\WaterFilter_Desktop_MarkupCompile.cache
+c:\Users\Animesh\Documents\Visual Studio 2015\Projects\WaterFilter_Desktop\WaterFilter_Desktop\obj\Debug\WaterFilter_Desktop_MarkupCompile.lref
+c:\Users\Animesh\Documents\Visual Studio 2015\Projects\WaterFilter_Desktop\WaterFilter_Desktop\obj\Debug\MainWindow.baml
+c:\Users\Animesh\Documents\Visual Studio 2015\Projects\WaterFilter_Desktop\WaterFilter_Desktop\obj\Debug\Window1.baml
+c:\Users\Animesh\Documents\Visual Studio 2015\Projects\WaterFilter_Desktop\WaterFilter_Desktop\obj\Debug\WaterFilter_Desktop.g.resources
+c:\Users\Animesh\Documents\Visual Studio 2015\Projects\WaterFilter_Desktop\WaterFilter_Desktop\obj\Debug\WaterFilter_Desktop.Properties.Resources.resources
+c:\Users\Animesh\Documents\Visual Studio 2015\Projects\WaterFilter_Desktop\WaterFilter_Desktop\obj\Debug\WaterFilter_Desktop.csproj.GenerateResource.Cache
+c:\Users\Animesh\Documents\Visual Studio 2015\Projects\WaterFilter_Desktop\WaterFilter_Desktop\obj\Debug\WaterFilter_Desktop.exe
+c:\Users\Animesh\Documents\Visual Studio 2015\Projects\WaterFilter_Desktop\WaterFilter_Desktop\obj\Debug\WaterFilter_Desktop.pdb
+c:\Users\Animesh\Documents\Visual Studio 2015\Projects\WaterFilter_Desktop\WaterFilter_Desktop\obj\Debug\WaterFilter_Desktop.csproj.App.config
+c:\Users\Animesh\Documents\Visual Studio 2015\Projects\WaterFilter_Desktop\WaterFilter_Desktop\bin\Debug\Microsoft.Azure.KeyVault.Core.dll
+c:\Users\Animesh\Documents\Visual Studio 2015\Projects\WaterFilter_Desktop\WaterFilter_Desktop\bin\Debug\Microsoft.Data.Edm.dll
+c:\Users\Animesh\Documents\Visual Studio 2015\Projects\WaterFilter_Desktop\WaterFilter_Desktop\bin\Debug\Microsoft.Data.OData.dll
+c:\Users\Animesh\Documents\Visual Studio 2015\Projects\WaterFilter_Desktop\WaterFilter_Desktop\bin\Debug\Microsoft.Data.Services.Client.dll
+c:\Users\Animesh\Documents\Visual Studio 2015\Projects\WaterFilter_Desktop\WaterFilter_Desktop\bin\Debug\Microsoft.WindowsAzure.Mobile.dll
+c:\Users\Animesh\Documents\Visual Studio 2015\Projects\WaterFilter_Desktop\WaterFilter_Desktop\bin\Debug\Microsoft.WindowsAzure.Mobile.Ext.dll
+c:\Users\Animesh\Documents\Visual Studio 2015\Projects\WaterFilter_Desktop\WaterFilter_Desktop\bin\Debug\Newtonsoft.Json.dll
+c:\Users\Animesh\Documents\Visual Studio 2015\Projects\WaterFilter_Desktop\WaterFilter_Desktop\bin\Debug\System.Net.Http.Extensions.dll
+c:\Users\Animesh\Documents\Visual Studio 2015\Projects\WaterFilter_Desktop\WaterFilter_Desktop\bin\Debug\System.Net.Http.Primitives.dll
+c:\Users\Animesh\Documents\Visual Studio 2015\Projects\WaterFilter_Desktop\WaterFilter_Desktop\bin\Debug\System.Spatial.dll
+c:\Users\Animesh\Documents\Visual Studio 2015\Projects\WaterFilter_Desktop\WaterFilter_Desktop\bin\Debug\Microsoft.Azure.KeyVault.Core.xml
+c:\Users\Animesh\Documents\Visual Studio 2015\Projects\WaterFilter_Desktop\WaterFilter_Desktop\bin\Debug\Microsoft.Data.Edm.xml
+c:\Users\Animesh\Documents\Visual Studio 2015\Projects\WaterFilter_Desktop\WaterFilter_Desktop\bin\Debug\Microsoft.Data.OData.xml
+c:\Users\Animesh\Documents\Visual Studio 2015\Projects\WaterFilter_Desktop\WaterFilter_Desktop\bin\Debug\Microsoft.Data.Services.Client.xml
+c:\Users\Animesh\Documents\Visual Studio 2015\Projects\WaterFilter_Desktop\WaterFilter_Desktop\bin\Debug\Microsoft.WindowsAzure.Mobile.xml
+c:\Users\Animesh\Documents\Visual Studio 2015\Projects\WaterFilter_Desktop\WaterFilter_Desktop\bin\Debug\Microsoft.WindowsAzure.Mobile.Ext.xml
+c:\Users\Animesh\Documents\Visual Studio 2015\Projects\WaterFilter_Desktop\WaterFilter_Desktop\bin\Debug\Newtonsoft.Json.xml
+c:\Users\Animesh\Documents\Visual Studio 2015\Projects\WaterFilter_Desktop\WaterFilter_Desktop\bin\Debug\System.Net.Http.Extensions.xml
+c:\Users\Animesh\Documents\Visual Studio 2015\Projects\WaterFilter_Desktop\WaterFilter_Desktop\bin\Debug\System.Net.Http.Primitives.xml
+c:\Users\Animesh\Documents\Visual Studio 2015\Projects\WaterFilter_Desktop\WaterFilter_Desktop\bin\Debug\System.Spatial.xml
+c:\Users\Animesh\Documents\Visual Studio 2015\Projects\WaterFilter_Desktop\WaterFilter_Desktop\bin\Debug\de\Microsoft.Data.Edm.resources.dll
+c:\Users\Animesh\Documents\Visual Studio 2015\Projects\WaterFilter_Desktop\WaterFilter_Desktop\bin\Debug\es\Microsoft.Data.Edm.resources.dll
+c:\Users\Animesh\Documents\Visual Studio 2015\Projects\WaterFilter_Desktop\WaterFilter_Desktop\bin\Debug\fr\Microsoft.Data.Edm.resources.dll
+c:\Users\Animesh\Documents\Visual Studio 2015\Projects\WaterFilter_Desktop\WaterFilter_Desktop\bin\Debug\it\Microsoft.Data.Edm.resources.dll
+c:\Users\Animesh\Documents\Visual Studio 2015\Projects\WaterFilter_Desktop\WaterFilter_Desktop\bin\Debug\ja\Microsoft.Data.Edm.resources.dll
+c:\Users\Animesh\Documents\Visual Studio 2015\Projects\WaterFilter_Desktop\WaterFilter_Desktop\bin\Debug\ko\Microsoft.Data.Edm.resources.dll
+c:\Users\Animesh\Documents\Visual Studio 2015\Projects\WaterFilter_Desktop\WaterFilter_Desktop\bin\Debug\ru\Microsoft.Data.Edm.resources.dll
+c:\Users\Animesh\Documents\Visual Studio 2015\Projects\WaterFilter_Desktop\WaterFilter_Desktop\bin\Debug\zh-Hans\Microsoft.Data.Edm.resources.dll
+c:\Users\Animesh\Documents\Visual Studio 2015\Projects\WaterFilter_Desktop\WaterFilter_Desktop\bin\Debug\zh-Hant\Microsoft.Data.Edm.resources.dll
+c:\Users\Animesh\Documents\Visual Studio 2015\Projects\WaterFilter_Desktop\WaterFilter_Desktop\bin\Debug\de\Microsoft.Data.OData.resources.dll
+c:\Users\Animesh\Documents\Visual Studio 2015\Projects\WaterFilter_Desktop\WaterFilter_Desktop\bin\Debug\es\Microsoft.Data.OData.resources.dll
+c:\Users\Animesh\Documents\Visual Studio 2015\Projects\WaterFilter_Desktop\WaterFilter_Desktop\bin\Debug\fr\Microsoft.Data.OData.resources.dll
+c:\Users\Animesh\Documents\Visual Studio 2015\Projects\WaterFilter_Desktop\WaterFilter_Desktop\bin\Debug\it\Microsoft.Data.OData.resources.dll
+c:\Users\Animesh\Documents\Visual Studio 2015\Projects\WaterFilter_Desktop\WaterFilter_Desktop\bin\Debug\ja\Microsoft.Data.OData.resources.dll
+c:\Users\Animesh\Documents\Visual Studio 2015\Projects\WaterFilter_Desktop\WaterFilter_Desktop\bin\Debug\ko\Microsoft.Data.OData.resources.dll
+c:\Users\Animesh\Documents\Visual Studio 2015\Projects\WaterFilter_Desktop\WaterFilter_Desktop\bin\Debug\ru\Microsoft.Data.OData.resources.dll
+c:\Users\Animesh\Documents\Visual Studio 2015\Projects\WaterFilter_Desktop\WaterFilter_Desktop\bin\Debug\zh-Hans\Microsoft.Data.OData.resources.dll
+c:\Users\Animesh\Documents\Visual Studio 2015\Projects\WaterFilter_Desktop\WaterFilter_Desktop\bin\Debug\zh-Hant\Microsoft.Data.OData.resources.dll
+c:\Users\Animesh\Documents\Visual Studio 2015\Projects\WaterFilter_Desktop\WaterFilter_Desktop\bin\Debug\de\Microsoft.Data.Services.Client.resources.dll
+c:\Users\Animesh\Documents\Visual Studio 2015\Projects\WaterFilter_Desktop\WaterFilter_Desktop\bin\Debug\es\Microsoft.Data.Services.Client.resources.dll
+c:\Users\Animesh\Documents\Visual Studio 2015\Projects\WaterFilter_Desktop\WaterFilter_Desktop\bin\Debug\fr\Microsoft.Data.Services.Client.resources.dll
+c:\Users\Animesh\Documents\Visual Studio 2015\Projects\WaterFilter_Desktop\WaterFilter_Desktop\bin\Debug\it\Microsoft.Data.Services.Client.resources.dll
+c:\Users\Animesh\Documents\Visual Studio 2015\Projects\WaterFilter_Desktop\WaterFilter_Desktop\bin\Debug\ja\Microsoft.Data.Services.Client.resources.dll
+c:\Users\Animesh\Documents\Visual Studio 2015\Projects\WaterFilter_Desktop\WaterFilter_Desktop\bin\Debug\ko\Microsoft.Data.Services.Client.resources.dll
+c:\Users\Animesh\Documents\Visual Studio 2015\Projects\WaterFilter_Desktop\WaterFilter_Desktop\bin\Debug\ru\Microsoft.Data.Services.Client.resources.dll
+c:\Users\Animesh\Documents\Visual Studio 2015\Projects\WaterFilter_Desktop\WaterFilter_Desktop\bin\Debug\zh-Hans\Microsoft.Data.Services.Client.resources.dll
+c:\Users\Animesh\Documents\Visual Studio 2015\Projects\WaterFilter_Desktop\WaterFilter_Desktop\bin\Debug\zh-Hant\Microsoft.Data.Services.Client.resources.dll
+c:\Users\Animesh\Documents\Visual Studio 2015\Projects\WaterFilter_Desktop\WaterFilter_Desktop\bin\Debug\de\System.Spatial.resources.dll
+c:\Users\Animesh\Documents\Visual Studio 2015\Projects\WaterFilter_Desktop\WaterFilter_Desktop\bin\Debug\es\System.Spatial.resources.dll
+c:\Users\Animesh\Documents\Visual Studio 2015\Projects\WaterFilter_Desktop\WaterFilter_Desktop\bin\Debug\fr\System.Spatial.resources.dll
+c:\Users\Animesh\Documents\Visual Studio 2015\Projects\WaterFilter_Desktop\WaterFilter_Desktop\bin\Debug\it\System.Spatial.resources.dll
+c:\Users\Animesh\Documents\Visual Studio 2015\Projects\WaterFilter_Desktop\WaterFilter_Desktop\bin\Debug\ja\System.Spatial.resources.dll
+c:\Users\Animesh\Documents\Visual Studio 2015\Projects\WaterFilter_Desktop\WaterFilter_Desktop\bin\Debug\ko\System.Spatial.resources.dll
+c:\Users\Animesh\Documents\Visual Studio 2015\Projects\WaterFilter_Desktop\WaterFilter_Desktop\bin\Debug\ru\System.Spatial.resources.dll
+c:\Users\Animesh\Documents\Visual Studio 2015\Projects\WaterFilter_Desktop\WaterFilter_Desktop\bin\Debug\zh-Hans\System.Spatial.resources.dll
+c:\Users\Animesh\Documents\Visual Studio 2015\Projects\WaterFilter_Desktop\WaterFilter_Desktop\bin\Debug\zh-Hant\System.Spatial.resources.dll
+D:\WaterFilter\WaterFilter_Desktop\WaterFilter_Desktop\bin\Debug\WaterFilter_Desktop.exe.config
+D:\WaterFilter\WaterFilter_Desktop\WaterFilter_Desktop\obj\Debug\WaterFilter_Desktop.exe
+D:\WaterFilter\WaterFilter_Desktop\WaterFilter_Desktop\obj\Debug\WaterFilter_Desktop.pdb
+D:\WaterFilter\WaterFilter_Desktop\WaterFilter_Desktop\bin\Debug\WaterFilter_Desktop.exe
+D:\WaterFilter\WaterFilter_Desktop\WaterFilter_Desktop\bin\Debug\WaterFilter_Desktop.pdb
+D:\WaterFilter\WaterFilter_Desktop\WaterFilter_Desktop\bin\Debug\Microsoft.Azure.KeyVault.Core.dll
+D:\WaterFilter\WaterFilter_Desktop\WaterFilter_Desktop\bin\Debug\Microsoft.Data.Edm.dll
+D:\WaterFilter\WaterFilter_Desktop\WaterFilter_Desktop\bin\Debug\Microsoft.Data.OData.dll
+D:\WaterFilter\WaterFilter_Desktop\WaterFilter_Desktop\bin\Debug\Microsoft.Data.Services.Client.dll
+D:\WaterFilter\WaterFilter_Desktop\WaterFilter_Desktop\bin\Debug\Microsoft.WindowsAzure.Mobile.dll
+D:\WaterFilter\WaterFilter_Desktop\WaterFilter_Desktop\bin\Debug\Microsoft.WindowsAzure.Mobile.Ext.dll
+D:\WaterFilter\WaterFilter_Desktop\WaterFilter_Desktop\bin\Debug\Newtonsoft.Json.dll
+D:\WaterFilter\WaterFilter_Desktop\WaterFilter_Desktop\bin\Debug\System.Net.Http.Extensions.dll
+D:\WaterFilter\WaterFilter_Desktop\WaterFilter_Desktop\bin\Debug\System.Net.Http.Primitives.dll
+D:\WaterFilter\WaterFilter_Desktop\WaterFilter_Desktop\bin\Debug\System.Spatial.dll
+D:\WaterFilter\WaterFilter_Desktop\WaterFilter_Desktop\bin\Debug\Microsoft.Azure.KeyVault.Core.xml
+D:\WaterFilter\WaterFilter_Desktop\WaterFilter_Desktop\bin\Debug\Microsoft.Data.Edm.xml
+D:\WaterFilter\WaterFilter_Desktop\WaterFilter_Desktop\bin\Debug\Microsoft.Data.OData.xml
+D:\WaterFilter\WaterFilter_Desktop\WaterFilter_Desktop\bin\Debug\Microsoft.Data.Services.Client.xml
+D:\WaterFilter\WaterFilter_Desktop\WaterFilter_Desktop\bin\Debug\Microsoft.WindowsAzure.Mobile.xml
+D:\WaterFilter\WaterFilter_Desktop\WaterFilter_Desktop\bin\Debug\Microsoft.WindowsAzure.Mobile.Ext.xml
+D:\WaterFilter\WaterFilter_Desktop\WaterFilter_Desktop\bin\Debug\Newtonsoft.Json.xml
+D:\WaterFilter\WaterFilter_Desktop\WaterFilter_Desktop\bin\Debug\System.Net.Http.Extensions.xml
+D:\WaterFilter\WaterFilter_Desktop\WaterFilter_Desktop\bin\Debug\System.Net.Http.Primitives.xml
+D:\WaterFilter\WaterFilter_Desktop\WaterFilter_Desktop\bin\Debug\System.Spatial.xml
+D:\WaterFilter\WaterFilter_Desktop\WaterFilter_Desktop\bin\Debug\de\Microsoft.Data.Edm.resources.dll
+D:\WaterFilter\WaterFilter_Desktop\WaterFilter_Desktop\bin\Debug\es\Microsoft.Data.Edm.resources.dll
+D:\WaterFilter\WaterFilter_Desktop\WaterFilter_Desktop\bin\Debug\fr\Microsoft.Data.Edm.resources.dll
+D:\WaterFilter\WaterFilter_Desktop\WaterFilter_Desktop\bin\Debug\it\Microsoft.Data.Edm.resources.dll
+D:\WaterFilter\WaterFilter_Desktop\WaterFilter_Desktop\bin\Debug\ja\Microsoft.Data.Edm.resources.dll
+D:\WaterFilter\WaterFilter_Desktop\WaterFilter_Desktop\bin\Debug\ko\Microsoft.Data.Edm.resources.dll
+D:\WaterFilter\WaterFilter_Desktop\WaterFilter_Desktop\bin\Debug\ru\Microsoft.Data.Edm.resources.dll
+D:\WaterFilter\WaterFilter_Desktop\WaterFilter_Desktop\bin\Debug\zh-Hans\Microsoft.Data.Edm.resources.dll
+D:\WaterFilter\WaterFilter_Desktop\WaterFilter_Desktop\bin\Debug\zh-Hant\Microsoft.Data.Edm.resources.dll
+D:\WaterFilter\WaterFilter_Desktop\WaterFilter_Desktop\bin\Debug\de\Microsoft.Data.OData.resources.dll
+D:\WaterFilter\WaterFilter_Desktop\WaterFilter_Desktop\bin\Debug\es\Microsoft.Data.OData.resources.dll
+D:\WaterFilter\WaterFilter_Desktop\WaterFilter_Desktop\bin\Debug\fr\Microsoft.Data.OData.resources.dll
+D:\WaterFilter\WaterFilter_Desktop\WaterFilter_Desktop\bin\Debug\it\Microsoft.Data.OData.resources.dll
+D:\WaterFilter\WaterFilter_Desktop\WaterFilter_Desktop\bin\Debug\ja\Microsoft.Data.OData.resources.dll
+D:\WaterFilter\WaterFilter_Desktop\WaterFilter_Desktop\bin\Debug\ko\Microsoft.Data.OData.resources.dll
+D:\WaterFilter\WaterFilter_Desktop\WaterFilter_Desktop\bin\Debug\ru\Microsoft.Data.OData.resources.dll
+D:\WaterFilter\WaterFilter_Desktop\WaterFilter_Desktop\bin\Debug\zh-Hans\Microsoft.Data.OData.resources.dll
+D:\WaterFilter\WaterFilter_Desktop\WaterFilter_Desktop\bin\Debug\zh-Hant\Microsoft.Data.OData.resources.dll
+D:\WaterFilter\WaterFilter_Desktop\WaterFilter_Desktop\bin\Debug\de\Microsoft.Data.Services.Client.resources.dll
+D:\WaterFilter\WaterFilter_Desktop\WaterFilter_Desktop\bin\Debug\es\Microsoft.Data.Services.Client.resources.dll
+D:\WaterFilter\WaterFilter_Desktop\WaterFilter_Desktop\bin\Debug\fr\Microsoft.Data.Services.Client.resources.dll
+D:\WaterFilter\WaterFilter_Desktop\WaterFilter_Desktop\bin\Debug\it\Microsoft.Data.Services.Client.resources.dll
+D:\WaterFilter\WaterFilter_Desktop\WaterFilter_Desktop\bin\Debug\ja\Microsoft.Data.Services.Client.resources.dll
+D:\WaterFilter\WaterFilter_Desktop\WaterFilter_Desktop\bin\Debug\ko\Microsoft.Data.Services.Client.resources.dll
+D:\WaterFilter\WaterFilter_Desktop\WaterFilter_Desktop\bin\Debug\ru\Microsoft.Data.Services.Client.resources.dll
+D:\WaterFilter\WaterFilter_Desktop\WaterFilter_Desktop\bin\Debug\zh-Hans\Microsoft.Data.Services.Client.resources.dll
+D:\WaterFilter\WaterFilter_Desktop\WaterFilter_Desktop\bin\Debug\zh-Hant\Microsoft.Data.Services.Client.resources.dll
+D:\WaterFilter\WaterFilter_Desktop\WaterFilter_Desktop\bin\Debug\de\System.Spatial.resources.dll
+D:\WaterFilter\WaterFilter_Desktop\WaterFilter_Desktop\bin\Debug\es\System.Spatial.resources.dll
+D:\WaterFilter\WaterFilter_Desktop\WaterFilter_Desktop\bin\Debug\fr\System.Spatial.resources.dll
+D:\WaterFilter\WaterFilter_Desktop\WaterFilter_Desktop\bin\Debug\it\System.Spatial.resources.dll
+D:\WaterFilter\WaterFilter_Desktop\WaterFilter_Desktop\bin\Debug\ja\System.Spatial.resources.dll
+D:\WaterFilter\WaterFilter_Desktop\WaterFilter_Desktop\bin\Debug\ko\System.Spatial.resources.dll
+D:\WaterFilter\WaterFilter_Desktop\WaterFilter_Desktop\bin\Debug\ru\System.Spatial.resources.dll
+D:\WaterFilter\WaterFilter_Desktop\WaterFilter_Desktop\bin\Debug\zh-Hans\System.Spatial.resources.dll
+D:\WaterFilter\WaterFilter_Desktop\WaterFilter_Desktop\bin\Debug\zh-Hant\System.Spatial.resources.dll
+D:\WaterFilter\WaterFilter_Desktop\WaterFilter_Desktop\obj\Debug\WaterFilter_Desktop.csproj.App.config
+D:\WaterFilter\WaterFilter_Desktop\WaterFilter_Desktop\obj\Debug\WaterFilter_Desktop.csprojResolveAssemblyReference.cache
+D:\WaterFilter\WaterFilter_Desktop\WaterFilter_Desktop\obj\Debug\MainWindow.g.cs
+D:\WaterFilter\WaterFilter_Desktop\WaterFilter_Desktop\obj\Debug\Window1.g.cs
+D:\WaterFilter\WaterFilter_Desktop\WaterFilter_Desktop\obj\Debug\App.g.cs
+D:\WaterFilter\WaterFilter_Desktop\WaterFilter_Desktop\obj\Debug\WaterFilter_Desktop_MarkupCompile.cache
+D:\WaterFilter\WaterFilter_Desktop\WaterFilter_Desktop\obj\Debug\WaterFilter_Desktop_MarkupCompile.lref
+D:\WaterFilter\WaterFilter_Desktop\WaterFilter_Desktop\obj\Debug\MainWindow.baml
+D:\WaterFilter\WaterFilter_Desktop\WaterFilter_Desktop\obj\Debug\Window1.baml
+D:\WaterFilter\WaterFilter_Desktop\WaterFilter_Desktop\obj\Debug\WaterFilter_Desktop.g.resources
+D:\WaterFilter\WaterFilter_Desktop\WaterFilter_Desktop\obj\Debug\WaterFilter_Desktop.Properties.Resources.resources
+D:\WaterFilter\WaterFilter_Desktop\WaterFilter_Desktop\obj\Debug\WaterFilter_Desktop.csproj.GenerateResource.Cache
+D:\WaterFilter\WaterFilter_Desktop\WaterFilter_Desktop\bin\Debug\WaterFilter_Desktop.exe.manifest
+D:\WaterFilter\WaterFilter_Desktop\WaterFilter_Desktop\bin\Debug\WaterFilter_Desktop.application
+D:\WaterFilter\WaterFilter_Desktop\WaterFilter_Desktop\obj\Debug\WaterFilter_Desktop.exe.manifest
+D:\WaterFilter\WaterFilter_Desktop\WaterFilter_Desktop\obj\Debug\WaterFilter_Desktop.application

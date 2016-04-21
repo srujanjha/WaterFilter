@@ -1,0 +1,67 @@
+﻿<Window x:Class="WaterFilter_Desktop.Window1"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WaterFilter_Desktop"
+        xmlns:winformchart="clr-namespace:System.Windows.Forms.DataVisualization.Charting;assembly=System.Windows.Forms.DataVisualization"
+        mc:Ignorable="d"
+        Title="Window1" Height="650" Width="750" ContentRendered="Window_ContentRendered">
+    <Grid>
+        <StackPanel Orientation="Vertical">
+            <Border Background="#FF3C8CB2">
+                <StackPanel>
+                    <TextBlock Text="Water Filter" Height="50" FontSize="25" HorizontalAlignment="Center" VerticalAlignment="Center" Foreground="White" Background="#FF3C8CB2" />
+                </StackPanel>
+            </Border>
+            <StackPanel Orientation="Horizontal" Height="580">
+                <Border Background="#FF3C8CB2" >
+                    <StackPanel Width="100" HorizontalAlignment="Left">
+                        <Button x:Name="Device1" Content="Device1" Height="100"  Foreground="White" Background="#FF3C8CB2" BorderThickness="0" Click="Device1_Click"/>
+                        <Button x:Name="Device2" Content="Device2" Height="100" Foreground="White" Background="#FF3C8CB2" BorderThickness="0" Click="Device2_Click"/>
+                        <Button x:Name="Device3" Content="Device3" Height="100" Foreground="White" Background="#FF3C8CB2" BorderThickness="0" Click="Device3_Click"/>
+                    </StackPanel>
+                </Border>
+                <StackPanel Orientation="Vertical">
+                    <StackPanel Width="600" Height="480" Margin="10,10,0,0">
+                        <WindowsFormsHost x:Name="LineChart" Height="480" Background="Gray">
+                            <winformchart:Chart x:Name="chart">
+                                <winformchart:Chart.Titles>
+                                    <winformchart:Title/>
+                                </winformchart:Chart.Titles>
+                                <winformchart:Chart.Series>
+                                    <winformchart:Series Name="Log" ChartType="Line" XValueType="String"/>
+                                </winformchart:Chart.Series>
+                                <winformchart:Chart.ChartAreas>
+                                    <winformchart:ChartArea >
+                                    </winformchart:ChartArea>
+                                </winformchart:Chart.ChartAreas>
+                                <winformchart:Chart.Legends>
+                                    <winformchart:Legend >
+                                    </winformchart:Legend>
+                                </winformchart:Chart.Legends>
+                            </winformchart:Chart>
+                        </WindowsFormsHost>
+                    </StackPanel>
+                    <StackPanel Width="400" Height="50" Margin="15,5,0,0" Orientation="Vertical">
+                        <StackPanel Orientation="Horizontal">
+                            <TextBlock Text="Current Status" Foreground="#FF3C8CB2" Background="White" Height="20" Width="100" FontSize="12" HorizontalAlignment="Left" VerticalAlignment="Top"/>
+                            <Ellipse x:Name="Ellipse" Fill="Green" Height="15" Width="15" VerticalAlignment="Top" Margin="10,0,0,0"/>
+                            <TextBlock Text="Last Stopped :" Foreground="#FF3C8CB2" Background="White" Height="20" Width="100" FontSize="12" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="85,0,0,0"/>
+                            <TextBlock x:Name="Stopped" Text="19-3-2016" Foreground="#FF3C8CB2" Background="White" Height="20" Width="100" FontSize="12" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="0,0,0,0"/>
+                        </StackPanel>
+                        <StackPanel Orientation="Horizontal" Margin="0,10,0,0">
+                            <TextBlock Text="Last Repaired :" Foreground="#FF3C8CB2" Background="White" Height="20" Width="100" FontSize="12" HorizontalAlignment="Left" VerticalAlignment="Top"/>
+                            <TextBlock x:Name="Repaired" Text="19-3-2016" Foreground="#FF3C8CB2" Background="White" Height="20" Width="100" FontSize="12" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="0,0,0,0"/>
+
+                            <TextBlock Text="Elapsed Time :" Foreground="#FF3C8CB2" Background="White" Height="20" Width="100" FontSize="12" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="10,0,0,0"/>
+                            <TextBlock x:Name="Elapsed" Text="2 Days " Foreground="#FF3C8CB2" Background="White" Height="20" Width="100" FontSize="12" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="0,0,0,0"/>
+
+                        </StackPanel>
+                    </StackPanel>
+                </StackPanel>
+
+            </StackPanel>
+        </StackPanel>
+    </Grid>
+</Window>

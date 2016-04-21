@@ -1,0 +1,49 @@
+c:\users\animesh\documents\visual studio 2015\Projects\WaterFilter\WaterFilter\bin\Debug\WaterFilter.exe.config
+c:\Users\Animesh\Documents\Visual Studio 2015\Projects\WaterFilter\WaterFilter\bin\Debug\WaterFilter.exe
+c:\Users\Animesh\Documents\Visual Studio 2015\Projects\WaterFilter\WaterFilter\bin\Debug\WaterFilter.pdb
+c:\Users\Animesh\Documents\Visual Studio 2015\Projects\WaterFilter\WaterFilter\obj\Debug\WaterFilter.csprojResolveAssemblyReference.cache
+c:\Users\Animesh\Documents\Visual Studio 2015\Projects\WaterFilter\WaterFilter\obj\Debug\MainWindow.g.cs
+c:\Users\Animesh\Documents\Visual Studio 2015\Projects\WaterFilter\WaterFilter\obj\Debug\App.g.cs
+c:\Users\Animesh\Documents\Visual Studio 2015\Projects\WaterFilter\WaterFilter\obj\Debug\WaterFilter_MarkupCompile.cache
+c:\Users\Animesh\Documents\Visual Studio 2015\Projects\WaterFilter\WaterFilter\obj\Debug\WaterFilter_MarkupCompile.lref
+c:\Users\Animesh\Documents\Visual Studio 2015\Projects\WaterFilter\WaterFilter\obj\Debug\MainWindow.baml
+c:\Users\Animesh\Documents\Visual Studio 2015\Projects\WaterFilter\WaterFilter\obj\Debug\WaterFilter.g.resources
+c:\Users\Animesh\Documents\Visual Studio 2015\Projects\WaterFilter\WaterFilter\obj\Debug\WaterFilter.Properties.Resources.resources
+c:\Users\Animesh\Documents\Visual Studio 2015\Projects\WaterFilter\WaterFilter\obj\Debug\WaterFilter.csproj.GenerateResource.Cache
+c:\Users\Animesh\Documents\Visual Studio 2015\Projects\WaterFilter\WaterFilter\obj\Debug\WaterFilter.exe
+c:\Users\Animesh\Documents\Visual Studio 2015\Projects\WaterFilter\WaterFilter\obj\Debug\WaterFilter.pdb
+c:\Users\Animesh\Documents\Visual Studio 2015\Projects\WaterFilter\WaterFilter\obj\Debug\ViewSensor.g.cs
+c:\Users\Animesh\Documents\Visual Studio 2015\Projects\WaterFilter\WaterFilter\obj\Debug\ViewSensors.g.cs
+c:\Users\Animesh\Documents\Visual Studio 2015\Projects\WaterFilter\WaterFilter\obj\Debug\ViewSensor.baml
+c:\Users\Animesh\Documents\Visual Studio 2015\Projects\WaterFilter\WaterFilter\obj\Debug\ViewSensors.baml
+c:\Users\Animesh\Documents\Visual Studio 2015\Projects\WaterFilter\WaterFilter\obj\Debug\ViewLog.g.cs
+c:\Users\Animesh\Documents\Visual Studio 2015\Projects\WaterFilter\WaterFilter\obj\Debug\ViewLog.baml
+D:\WaterFilter\WaterFilter\WaterFilter\bin\Debug\WaterFilter.exe.config
+D:\WaterFilter\WaterFilter\WaterFilter\obj\Debug\WaterFilter.exe
+D:\WaterFilter\WaterFilter\WaterFilter\obj\Debug\WaterFilter.pdb
+D:\WaterFilter\WaterFilter\WaterFilter\bin\Debug\WaterFilter.exe
+D:\WaterFilter\WaterFilter\WaterFilter\bin\Debug\WaterFilter.pdb
+D:\WaterFilter\WaterFilter\WaterFilter\obj\Debug\WaterFilter.csprojResolveAssemblyReference.cache
+D:\WaterFilter\WaterFilter\WaterFilter\obj\Debug\MainWindow.g.cs
+D:\WaterFilter\WaterFilter\WaterFilter\obj\Debug\ViewLog.g.cs
+D:\WaterFilter\WaterFilter\WaterFilter\obj\Debug\ViewSensors.g.cs
+D:\WaterFilter\WaterFilter\WaterFilter\obj\Debug\App.g.cs
+D:\WaterFilter\WaterFilter\WaterFilter\obj\Debug\WaterFilter_MarkupCompile.cache
+D:\WaterFilter\WaterFilter\WaterFilter\obj\Debug\WaterFilter_MarkupCompile.lref
+D:\WaterFilter\WaterFilter\WaterFilter\obj\Debug\MainWindow.baml
+D:\WaterFilter\WaterFilter\WaterFilter\obj\Debug\ViewLog.baml
+D:\WaterFilter\WaterFilter\WaterFilter\obj\Debug\ViewSensors.baml
+D:\WaterFilter\WaterFilter\WaterFilter\obj\Debug\WaterFilter.g.resources
+D:\WaterFilter\WaterFilter\WaterFilter\obj\Debug\WaterFilter.Properties.Resources.resources
+D:\WaterFilter\WaterFilter\WaterFilter\obj\Debug\WaterFilter.csproj.GenerateResource.Cache
+D:\WaterFilter\WaterFilter\WaterFilter\bin\Debug\Microsoft.WindowsAzure.Mobile.dll
+D:\WaterFilter\WaterFilter\WaterFilter\bin\Debug\Microsoft.WindowsAzure.Mobile.Ext.dll
+D:\WaterFilter\WaterFilter\WaterFilter\bin\Debug\Newtonsoft.Json.dll
+D:\WaterFilter\WaterFilter\WaterFilter\bin\Debug\System.Net.Http.Extensions.dll
+D:\WaterFilter\WaterFilter\WaterFilter\bin\Debug\System.Net.Http.Primitives.dll
+D:\WaterFilter\WaterFilter\WaterFilter\bin\Debug\Microsoft.WindowsAzure.Mobile.xml
+D:\WaterFilter\WaterFilter\WaterFilter\bin\Debug\Microsoft.WindowsAzure.Mobile.Ext.xml
+D:\WaterFilter\WaterFilter\WaterFilter\bin\Debug\Newtonsoft.Json.xml
+D:\WaterFilter\WaterFilter\WaterFilter\bin\Debug\System.Net.Http.Extensions.xml
+D:\WaterFilter\WaterFilter\WaterFilter\bin\Debug\System.Net.Http.Primitives.xml
+D:\WaterFilter\WaterFilter\WaterFilter\obj\Debug\WaterFilter.csproj.App.config

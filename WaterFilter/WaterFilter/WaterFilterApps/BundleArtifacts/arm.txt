@@ -1,0 +1,2 @@
+MainPackage=D:\WaterFilter\WaterFilter\WaterFilterApps\bin\ARM\Release\WaterFilterApps_1.0.11.0_ARM.appx
+SymbolPackage=D:\WaterFilter\WaterFilter\WaterFilterApps\AppPackages\WaterFilterApps_1.0.11.0_Test\WaterFilterApps_1.0.11.0_ARM.appxsym
